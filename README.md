@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-    <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am suraj</h1>
+  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am suraj</h1>
 <h3 align="center">Undergraduate | Web developer | Programming enthusiast</h3>
 
 <p align="center">
@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 
     
     ## :sassy_man:  About me
-    - :school: I am a Freshman at CVR College of Engineering, Hyderabad
+   - :school: I am a Freshman at CVR College of Engineering, Hyderabad
     - :technologist: I am a Frontend developer and love tinkering with Software and Operating Systems
     - :computer: Practicing DSA at [HackerRank](https://www.hackerrank.com/suraj963719) and [LeetCode](https://leetcode.com/suraj963719/)
     - :student: I’m currently learning: Backend Development at [TheOdinProject.com](https://www.theodinproject.com)
     
     ## 💻 Tech Stack
-    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
     ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
