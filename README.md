@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     
    ## :sassy_man:  About me
    - :school: I am a Freshman at CVR College of Engineering, Hyderabad
-   - :technologist: I am a Frontend developer
+   - :technologist: I am a FullStack developer
    - :computer: Practicing DSA at [HackerRank](https://www.hackerrank.com/suraj963719) and [LeetCode](https://leetcode.com/suraj963719/)
    - :student: I’m currently learning Backend Development and Python
     
