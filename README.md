@@ -51,7 +51,6 @@ Here are some ideas to get you started:
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj719&theme=algolia&hide_border=false" alt="Top Langs">
   <br><br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=suraj719&custom_title=Suraj's%20Contribution%20Graph&theme=react-dark" alt="suraj's activity graph">
 </p>
 
 ## 🌐 Connect with me on:
