@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://www.hackerrank.com/suraj963719"><img src="https://img.shields.io/static/v1?label=HackerRank&message=suraj963719&style=flat-square&logo=HackerRank&color=blue" alt="HackerRank logo" /></a>
   <a href="https://www.linkedin.com/in/surajthammi/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=surajthammi&style=flat-square&logo=LinkedIn&color=blue" alt="LinkedIn logo" /></a>
-  <a href="https://leetcode.com/suraj963719/"><img src="https://img.shields.io/static/v1?label=LeetCode&message=suraj963719&style=flat-square&logo=LeetCode&color=blue" alt="LeetCode logo" /></a>
+  <a href="https://leetcode.com/suraj719/"><img src="https://img.shields.io/static/v1?label=LeetCode&message=suraj719&style=flat-square&logo=LeetCode&color=blue" alt="LeetCode logo" /></a>
   <a href="mailto:suraj963719@gmail.com"><img src="https://img.shields.io/static/v1?label=E-Mail&message=suraj963719@gmail.com&style=flat-square&logo=Mail.Ru&color=blue" alt="E-Mail logo" /></a>
 </p>
 
