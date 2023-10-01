@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
     
    ## :sassy_man:  About me
-   - :school: I am a Freshman at CVR College of Engineering, Hyderabad
+   - :school: I am a Sophomore at CVR College of Engineering, Hyderabad
    - :technologist: I am a FullStack developer
-   - :computer: Currently learning Backend Development and Python
+   - :computer: Currently doing DSA
 [![An image of @suraj719's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suraj719)](https://holopin.io/@suraj719)    
    ## 💻 Tech Stack
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
