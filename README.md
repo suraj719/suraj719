@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am suraj</h1>
   <div align="center">
-  <a href="https://suraj719.github.io">
-  suraj719.github.io
+  <a href="https://suraj7.tech">
+  suraj7.tech
   </a>
   </div>
 <h3 align="center">Undergraduate | Web developer | Programming enthusiast</h3>
