@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Suraj Thammi</h1>
 
 <div align="center">
-  <a href="https://suraj7.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-suraj7.tech-blue?style=for-the-badge&logo=internet-explorer" alt="Portfolio">
+  <a href="https://suraj.works" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-suraj.works-blue?style=for-the-badge&logo=internet-explorer" alt="Portfolio">
   </a>
 </div>
 
@@ -18,8 +18,8 @@
 ---
 
 ## 🚀 About Me
-- 🏫 Junior at CVR College of Engineering, Hyderabad
-- 👨‍💻 Passionate about Full-Stack Development
+- 🏫 Senior at CVR College of Engineering, Hyderabad
+- 👨‍💻 Passionate about AI and Full-Stack Development
 - 💻 Currently practicing DSA to strengthen problem-solving skills
 - ⚡ Exploring Cloud Computing & DevOps
 
